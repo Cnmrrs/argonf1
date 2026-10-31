@@ -1,0 +1,6 @@
+{
+  "name": "ARGON F1 — Team Principal & Racing Simulator",
+  "description": "Kapsamlı Formula 1 takım patronu, organizasyon yönetimi, 3B tasarım stüdyosu ve canlı yarış simülatörü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
